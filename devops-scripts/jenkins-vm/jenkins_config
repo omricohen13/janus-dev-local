@@ -1,0 +1,4 @@
+# Jenkins VM config for password-based SSH
+JENKINS_HOST="10.0.0.39"
+JENKINS_USER="jen"
+JENKINS_PASS="omri13JEN@janus"
